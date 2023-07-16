@@ -1,7 +1,9 @@
 # Qt5DataFormatters
 
-based on https://github.com/sdonegan/Qt5DataFormatters
+Based on https://github.com/sdonegan/Qt5DataFormatters.
+
 Fixed for QT 5.12
+
 Qt5DataFormatters contains a set of [lldb data formatters](http://lldb.llvm.org/varformats.html) (specifically synthetic children and summary providers) for various Qt5 data structures, implemented using lldb's Python API. The following Qt5 objects have been implemented:
 
 + QVector (synthetic children + summary)
